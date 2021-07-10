@@ -1,0 +1,17 @@
+/* HOME INFO */
+
+#home-info .info-img{
+  display: none;
+}
+
+.info-content{
+  float: none;
+  width: 100%;
+  text-align: center;
+}
+
+/* BOXES */
+.box{
+  float: none;
+  width: 100%;
+}
